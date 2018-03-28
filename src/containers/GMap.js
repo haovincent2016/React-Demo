@@ -28,7 +28,7 @@ const mapStateToProps = state => {
 
 export default compose(
   withProps({
-    googleMapURL: "https://maps.googleapis.com/maps/api/js?key=AIzaSyA8Mfxw6NGkaplun9S2cuX9w3Fw9FhAQDc&libraries=places",
+    googleMapURL: "https://maps.googleapis.com/maps/api/js?key=AIzaSyA88ghj7UuFc7SGr64Hotd-zYJQDihvnlE&libraries=places",
     loadingElement: <div style={{ height: `100vh` }} />,
     containerElement: <div style={{ height: `100vh` }} />,
     mapElement: <div style={{ height: `100vh` }} />,
